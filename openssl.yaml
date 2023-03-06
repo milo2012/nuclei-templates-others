@@ -24,5 +24,4 @@ requests:
         part: header
         group: 1
         regex:
-          - 'OpenSSL/(.*)'
-
+          - 'OpenSSL/(.*?) '
