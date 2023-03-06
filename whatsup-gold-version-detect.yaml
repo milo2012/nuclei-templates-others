@@ -16,7 +16,7 @@ requests:
       - type: word
         part: header
         words:
-          - 'Server'
+          - 'Server: WhatsUp_Gold/'
 
     extractors:
       - type: regex
