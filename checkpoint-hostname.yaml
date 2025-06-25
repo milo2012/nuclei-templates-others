@@ -2,7 +2,7 @@ id: checkpoint-securemote-hostname-disclosure
 
 info:
   name: CheckPoint SecuRemote Topology Hostname Disclosure
-  author: aushack, adapted by ChatGPT
+  author: milo2012
   severity: info
   description: |
     Two-step TCP request to leak firewall and SmartCenter hostnames from CheckPoint Firewall-1.

@@ -2,7 +2,7 @@ id: splunk-version-info
 
 info:
   name: Splunk Enterprise Version and Build Disclosure
-  author: chatgpt
+  author: milo2012
   severity: info
   tags: splunk, version, build, enterprise
 
